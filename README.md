@@ -1,16 +1,22 @@
-### Hi there 👋
+## ¡Hola, mundo! 👾
+Por este rincón del mundo del desarrollo, me encuentro yo, Any; con la intención clara de compartir mis conocimientos y aprendizajes constantes mediante proyectos que en su mayoría procurar generar un cambio positivo en la vida de las personas.
 
-<!--
-**darosagomezany/darosagomezany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Un poco sobre mí
+▸ Desarrolladora Full Stack con habilidades en Python, Java y JavaScript.
 
-Here are some ideas to get you started:
+▸ Actualmente aprendiendo con entusiasmo TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+▸ Iniciando un nuevo proyecto: Una aplicación para simplificar la gestión financiera personal.
+
+## ¿En qué estoy interesada?
+▸ Colaborar en proyectos diversos que abarquen desde el desarrollo full-stack hasta iniciativas de código abierto, aplicando y siguiendo metodologías experimentadas como el desarrollo ágil y SCRUM.
+
+▸ Eclipsar mi pasión por las letras con proyectos tecnológicos interesantes.
+
+
+## Competencias
+▸ En Lenguajes de Programación se destaca HTML, CSS, Python y JavaScript.
+
+▸ Encarando librerías y frameworks, resalta Node.js, React.js, Bootstrap y Flask.
+
+▸ Siendo de conocimiento sólido en bases de datos MySQL, SQLServer y MongoDB.
